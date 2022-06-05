@@ -1,0 +1,10 @@
+1. deleting untracked files in a repo's working directory.
+2. -d = when no <path> is specified, git clean will not recurse into untracked directories to avoid removing too much.
+   -f = If the Git configuration variable clean.requireForce is not set to false, git clean will refuse to delete files or directories
+3. git branch <name_branch>
+4. with fast forward merge you have a straight line of history and with the recursive merge, it is of multiple lines.
+5. git switch <branch name>
+6. git rm
+7. Diff command is used in git to track the difference between the changes made on a file.
+8. git restore --staged
+9. merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file.
